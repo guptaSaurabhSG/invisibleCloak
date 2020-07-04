@@ -6,3 +6,5 @@ Let’s take a look at it.
 Environment Setup required :
   Jupyter Notebook
   Python — OpenCV, numpy
+
+That's it. Just run the script & enjoy this effect.
